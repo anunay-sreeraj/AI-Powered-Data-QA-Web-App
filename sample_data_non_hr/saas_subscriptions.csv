@@ -1,0 +1,21 @@
+subscription_id,company_name,industry,plan_tier,monthly_recurring_revenue,active_seats,billing_frequency,country,signup_date,status
+SUB-801,Acme Analytics,Technology,Enterprise,3200.00,120,Annual,United States,2023-01-15,Active
+SUB-802,BlueWave Logistics,Logistics,Pro,650.00,25,Monthly,Canada,2023-02-10,Active
+SUB-803,Apex Health,Healthcare,Enterprise,4500.00,210,Annual,United States,2023-03-01,Active
+SUB-804,Nova FinTech,Finance,Enterprise,5200.00,180,Annual,United Kingdom,2023-03-22,Active
+SUB-805,Solaris Energy,Energy,Pro,750.00,30,Monthly,Germany,2023-04-05,Active
+SUB-806,BrightPath Media,Media,Starter,120.00,5,Monthly,United States,2023-04-18,Churned
+SUB-807,Kestrel Robotics,Technology,Pro,850.00,35,Annual,Germany,2023-05-12,Active
+SUB-808,Zenith Retail,Retail,Starter,150.00,6,Monthly,Canada,2023-06-02,Churned
+SUB-809,Aura BioLabs,Healthcare,Enterprise,2900.00,95,Annual,United Kingdom,2023-06-19,Active
+SUB-810,Hyperion Cloud,Technology,Enterprise,6800.00,310,Annual,United States,2023-07-08,Active
+SUB-811,Crestline Foods,Retail,Pro,500.00,18,Monthly,United States,2023-07-29,Active
+SUB-812,UrbanGrid Architecture,Real Estate,Starter,180.00,8,Monthly,Australia,2023-08-14,Active
+SUB-813,Summit Legal,Legal,Pro,920.00,40,Annual,United Kingdom,2023-09-02,Active
+SUB-814,Pioneer Education,Education,Starter,99.00,4,Monthly,Canada,2023-09-25,Churned
+SUB-815,Vanguard Security,Technology,Enterprise,4100.00,150,Annual,United States,2023-10-10,Active
+SUB-816,Oasis Travel,Hospitality,Starter,150.00,5,Monthly,Australia,2023-11-04,Active
+SUB-817,Nexus Gaming,Media,Pro,800.00,28,Monthly,United States,2023-11-20,Active
+SUB-818,Cascade Consulting,Consulting,Pro,600.00,20,Annual,Germany,2023-12-08,Active
+SUB-819,Quantum Genomics,Healthcare,Enterprise,5600.00,240,Annual,United States,2024-01-11,Active
+SUB-820,Starlight Studio,Media,Starter,120.00,4,Monthly,United Kingdom,2024-01-29,Active
