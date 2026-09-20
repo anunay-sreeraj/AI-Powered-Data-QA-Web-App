@@ -1,4 +1,6 @@
-# Data Q&A Agent
+# AI-Powered Data Q&A Web App
+
+**Live App:** https://ai-powered-data-app-web-app-7uapp8grbxwcrcwbbny9cne.streamlit.app
 
 Upload one or more CSV/Excel files and ask analytical questions about them in plain English. Answers are always computed, not guessed: the LLM only translates a question into SQL, which is then actually run against your data with DuckDB.
 
